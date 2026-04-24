@@ -1,0 +1,28 @@
+name: Link Check
+
+# Verifie mensuellement que toutes les URLs du README restent fonctionnelles.
+# Ouvre une issue si des liens sont morts (404, timeout, etc.).
+
+on:
+  schedule:
+    - cron: '0 8 1 * *'  # 1er du mois a 08:00 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - 'README.md'
+      - '.github/workflows/link-check.yml'
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run markdown link check
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
+          config-file: '.github/workflows/mlc-config.json'
+          folder-path: '.'
+          file-extension: '.md'
