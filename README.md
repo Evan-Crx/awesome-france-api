@@ -18,7 +18,6 @@ La France produit un écosystème d'APIs publiques exceptionnellement riche : do
 - [Culture & patrimoine](#culture--patrimoine)
 - [Éducation & recherche](#éducation--recherche)
 - [Contribuer](#contribuer)
-- [License](#license)
 
 ## Gouvernement & open data
 
@@ -93,7 +92,3 @@ La France produit un écosystème d'APIs publiques exceptionnellement riche : do
 ## Contribuer
 
 Contributions bienvenues. Les règles complètes sont dans [contributing.md](contributing.md).
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
