@@ -71,6 +71,7 @@ La France produit un écosystème d'APIs publiques exceptionnellement riche : do
 - [Enedis Open Data](https://data.enedis.fr/) - Consommation et production électrique, courbes de charge par commune, taux de pénétration ENR.
 - [RTE Data Portal](https://data.rte-france.com/) - Mix électrique français temps réel, éCO2mix, disponibilité nucléaire, imports/exports.
 - [ADEME Open Data](https://data.ademe.fr/) - Bases carbone, DPE, bilans GES, rénovation énergétique.
+- [carbon-fr](https://carbon-fr.kovelt.fr/) - Intensité carbone de l'électricité française (gCO₂eq/kWh), national et 12 régions, à partir des données RTE/éCO2mix (ODRÉ). Séries historiques, prévision jusqu'à 72 h absente de la source, mix de production, échanges transfrontaliers et créneau le plus bas-carbone à venir. Open source, auto-hébergeable, sans clé ni quota.
 
 ## Droit & législation
 
