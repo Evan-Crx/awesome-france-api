@@ -24,6 +24,7 @@ La France produit un écosystème d'APIs publiques exceptionnellement riche : do
 - [data.gouv.fr](https://www.data.gouv.fr/) - Plateforme officielle française d'open data. Plus de 50 000 datasets publics, API de recherche et de consommation structurée.
 - [api.gouv.fr](https://api.gouv.fr/) - Catalogue officiel des APIs gouvernementales françaises. Point d'entrée pour découvrir les APIs officielles par ministère et cas d'usage.
 - [Etalab DataPass](https://datapass.api.gouv.fr/) - Demander l'accès aux APIs publiques qui nécessitent une habilitation (France Connect, Cartobio, etc.).
+- [Perfecture API](https://perfecture.fr/developpeurs) - API gratuite des disponibilités de rendez-vous en préfecture : créneaux libérés par département et démarche (titre de séjour, carte d'identité, passeport), sans clé ni contrat.
 
 ## Entreprises & registre légal
 
