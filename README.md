@@ -69,6 +69,7 @@ La France produit un écosystème d'APIs publiques exceptionnellement riche : do
 ## Énergie
 
 - [Enedis Open Data](https://data.enedis.fr/) - Consommation et production électrique, courbes de charge par commune, taux de pénétration ENR.
+- [Jour Tempo](https://jourtempo.fr/api/) — Couleur Tempo EDF du jour et du lendemain (données RTE), jours EJP et jours de pointe PP en JSON, historiques CSV depuis 2014. Sans clé ni compte, CORS ouvert, clients Python et JavaScript.
 - [RTE Data Portal](https://data.rte-france.com/) - Mix électrique français temps réel, éCO2mix, disponibilité nucléaire, imports/exports.
 - [ADEME Open Data](https://data.ademe.fr/) - Bases carbone, DPE, bilans GES, rénovation énergétique.
 
